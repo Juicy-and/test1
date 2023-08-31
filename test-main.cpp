@@ -3,7 +3,6 @@
 #include "catch2/catch_session.hpp"
 #include "testHeader.h"
 
-
 TEST_CASE("test func", "[func List]") {
     SECTION("testing func") {
 
